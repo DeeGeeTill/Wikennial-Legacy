@@ -3,8 +3,8 @@
   <h1>Wikennial</h1>
 </p>
 <p align="left">
-  <i>A nice little team wiki for people to organise their thoughts. Also known as Outline</i>
-  <br/>
+  <i>A nice little team wiki for people to organise their thoughts, hosted on a Nintendo Wii.</i>
+  <br><br>
   <img src="https://media.discordapp.net/attachments/686001040486563948/688701861770821632/screenzy-1584269709067.png" alt="Outline" width="800" />
 </p>
 <p align="center">
